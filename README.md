@@ -1,8 +1,5 @@
 # AI Statistics Lab: Robust Linear Regression with Outliers
 
-## Duration
-2 hours
-
 ## Topic
 Robust regression models for handling outliers.
 
